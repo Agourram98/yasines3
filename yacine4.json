@@ -36,9 +36,9 @@
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://smrturl.co/48dbdf9",
-      "update_msg" : "update your app",
+      "update_msg" : "",
       "update_state" : true,
-      "update_title" : "update"
+      "update_title" : "شارك في العرض لحصول على سيرفر (آي بي تي في) مجاني خاص بقنوات بي ان سبورت"
     },
     "app" : {
       "mode_off_version" : "0"
